@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "test sqldump": {
+      "commandName": "Project",
+      "commandLineArgs": "-d mysql -f \"C:\\TEST.DB\" -b \"C:\\TEST.MB\""
+    }
+  }
+}
